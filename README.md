@@ -1,6 +1,6 @@
 # leaked-ddos
 DDOS archive tools that have been leaked
 
-#NOTE
+# NOTE
 I DONT CODE THIS TOOLS
 I AM NOT RESPONSIBLE
